@@ -1,7 +1,7 @@
 # xFacility2014
 The powerful framework to make a new web-based tool for php.
 
-## These code is not working
+## These code are broken
 These code are not working properly.
 
 Some files is not included on Github.
